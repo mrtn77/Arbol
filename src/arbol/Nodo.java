@@ -5,6 +5,7 @@ package arbol;
  *
  * @author Burciaga_LP
  */
+// modificacion
 public class Nodo {
 
     private int valor;
