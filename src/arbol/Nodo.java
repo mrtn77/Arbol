@@ -7,6 +7,7 @@ package arbol;
  */
 // modificacion
 // modifiacuin 2
+//modificacion 3
 public class Nodo {
 
     private int valor;
